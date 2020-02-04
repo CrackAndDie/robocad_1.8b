@@ -5,4 +5,8 @@ My project with mine idle for visual robot
 At first you need to open IDLE in the folder called **"gui"** and start **"gui.exe"**  
 To open viewer you need to go to the folder called **"view"** and then start **"view.exe"**  
 
-## bag fixed
+## bag fixed  
+### drive_m1-3  
+### reset_all with drive_to_point  
+### encoders work with odometry  
+### less errors  
